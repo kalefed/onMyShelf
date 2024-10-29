@@ -1,0 +1,7 @@
+model Book {
+    id     Int    @id @default(autoincrement())
+    title  String
+    author String
+    cover  String
+    genre  String
+}
