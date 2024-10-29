@@ -14,5 +14,5 @@ model Book {
   author String
   cover  String
   genre  String
-  Status String
+  status String
 }
