@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Saga",
+  title: "On My Shelf",
   description: "Your Personal Book Journal",
 };
 
